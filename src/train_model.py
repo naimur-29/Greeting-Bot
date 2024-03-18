@@ -12,7 +12,7 @@ from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open("intents.json").read())
+intents = json.loads(open("./src/intents.json").read())
 
 words = []
 classes = []
@@ -31,8 +31,8 @@ for intent in intents["intents"]:
 words = [lemmatizer.lemmatize(word) for word in words if word not in ignore_chars]
 words = sorted(set(words))
 classes = sorted(set(classes))
-pickle.dump(words, open("words.pkl", "wb"))
-pickle.dump(classes, open("classes.pkl", "wb"))
+pickle.dump(words, open("./src/words.pkl", "wb"))
+pickle.dump(classes, open("./src/classes.pkl", "wb"))
 
 
 training = []
@@ -65,5 +65,5 @@ model.add(Dense(len(train_y[0]), activation="softmax"))
 sgd = SGD(learning_rate=0.01, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss="categorical_crossentropy", optimizer=sgd, metrics=['accuracy'])
 hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
-model.save("model.h5", hist)
+model.save("./src/model.h5", hist)
 print("training done!")

@@ -8,12 +8,12 @@ from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open("intents_leluce.json").read())
+intents = json.loads(open("./src/intents.json").read())
 
-words = pickle.load(open("words.pkl", "rb"))
-classes = pickle.load(open("classes.pkl", "rb"))
+words = pickle.load(open("./src/words.pkl", "rb"))
+classes = pickle.load(open("./src/classes.pkl", "rb"))
 
-model = load_model("model.h5")
+model = load_model("./src/model.h5")
 
 
 def cleanup_sentence(sentence):
@@ -52,9 +52,9 @@ def get_response(intents_list, intents_json):
       return random.choice(i['responses'])
 
 
-print("Lelouch is running...")
+print("GBot is running...")
 while True:
   message = input("You: ")
   ints = predict_class(message)
   # print(ints)
-  print("Lelouch:", get_response(ints, intents))
+  print("GBot:", get_response(ints, intents))
