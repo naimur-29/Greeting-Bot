@@ -1,6 +1,4 @@
-import speech_recognition as sr
-import pyttsx3
-
+# USING THE SAVED MODEL:
 import random
 import json
 import pickle
@@ -9,32 +7,8 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
-recognizer = sr.Recognizer()
-engine = pyttsx3.init()
-
-def listen():
-    with sr.Microphone() as source:
-        print("Listening...")
-        voice = recognizer.listen(source)
-        
-    try:
-        text = recognizer.recognize_google(voice)
-        # print("You said:", text)
-        return text
-    except sr.UnknownValueError:
-        print("Could not understand audio!")
-        return None
-    except sr.RequestError as e:
-        print("Request failed; {0}".format(e))
-        return None
-
-def speak(text):
-    engine.say(text)
-    engine.runAndWait()
-    
-# USING THE SAVED MODEL:
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open("intents.json").read())
+intents = json.loads(open("intents_leluce.json").read())
 
 words = pickle.load(open("words.pkl", "rb"))
 classes = pickle.load(open("classes.pkl", "rb"))
@@ -80,18 +54,7 @@ def get_response(intents_list, intents_json):
 
 print("Lelouch is running...")
 while True:
-  # message = input("You: ")
-  message = listen()
-  while(not message):
-    message = listen()
+  message = input("You: ")
   ints = predict_class(message)
   # print(ints)
-  response = get_response(ints, intents)
-    
-  print("You:", message)
-  print("Lelouch:", response)
-  speak(response)
-  message = ""
-    
-# speak("hello world!")
-# listen()
+  print("Lelouch:", get_response(ints, intents))
