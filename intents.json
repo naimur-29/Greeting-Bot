@@ -2,7 +2,7 @@
   "intents": [
     {
       "tag": "greeting",
-      "patterns": ["hey", "hi", "good morning", "good day", "how are you?", "what's up?", "how is it going?"],
+      "patterns": ["hey", "hello", "hi", "good morning", "good day", "how are you?", "what's up?", "how is it going?"],
       "responses": [
         "I'm IIEC Greeting bot. How can I help you?",
         "Hello! How can I assist you today?",

@@ -78,7 +78,7 @@ def get_response(intents_list, intents_json):
       return random.choice(i['responses'])
 
 
-print("Lelouch is running...")
+print("GBot is running...")
 while True:
   # message = input("You: ")
   message = listen()
@@ -89,7 +89,7 @@ while True:
   response = get_response(ints, intents)
     
   print("You:", message)
-  print("Lelouch:", response)
+  print("GBot:", response)
   speak(response)
   message = ""
     
