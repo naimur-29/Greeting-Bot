@@ -84,11 +84,12 @@ while True:
   message = listen()
   while(not message):
     message = listen()
+    
+  print("You:", message)
   ints = predict_class(message)
   # print(ints)
   response = get_response(ints, intents)
     
-  print("You:", message)
   print("GBot:", response)
   speak(response)
   message = ""
