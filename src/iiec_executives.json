@@ -1,0 +1,1020 @@
+{
+  "intents": [
+    {
+      "tag": "chairman",
+      "patterns": [
+        "Who is the chairman?",
+        "Who is the chairman of IIEC?",
+        "Who leads IIEC?",
+        "IIEC chairman's name?",
+        "Chairman of IIEC?",
+        "Tell me about the chairman of IIEC",
+        "Who heads IIEC?",
+        "Who is Dr. Hasibur Rashid Chayon?",
+        "What position does Dr. Hasibur Rashid Chayon hold at IIEC?",
+        "Dr. Hasibur Rashid Chayon's role at IIEC?"
+      ],
+      "responses": [
+        "Dr. Hasibur Rashid Chayon is the Chairman of the IIEC.",
+        "Dr. Hasibur Rashid Chayon holds the position of Chairman at IIEC.",
+        "The Chairman of IIEC is Dr. Hasibur Rashid Chayon.",
+        "At IIEC, Dr. Hasibur Rashid Chayon serves as the Chairman.",
+        "Dr. Hasibur Rashid Chayon leads IIEC as its Chairman.",
+        "Dr. Hasibur Rashid Chayon is the leader of IIEC, serving as Chairman."
+      ]
+    },
+    {
+      "tag": "research_officer",
+      "patterns": [
+        "Who is the research officer?",
+        "Who is the research officer of IIEC?",
+        "Who is responsible for research at IIEC?",
+        "IIEC research officer's name?",
+        "Research officer of IIEC?",
+        "Tell me about the research officer of IIEC",
+        "Who handles research at IIEC?",
+        "Who is Md Fahim Al Mamun?",
+        "What position does Md Fahim Al Mamun hold at IIEC?",
+        "Md Fahim Al Mamun's role at IIEC?"
+      ],
+      "responses": [
+        "Md Fahim Al Mamun is the Research Officer of the IIEC.",
+        "Md Fahim Al Mamun holds the position of Research Officer at IIEC.",
+        "The Research Officer of IIEC is Md Fahim Al Mamun.",
+        "At IIEC, Md Fahim Al Mamun serves as the Research Officer.",
+        "Md Fahim Al Mamun leads research efforts at IIEC as its Research Officer.",
+        "Md Fahim Al Mamun is responsible for research at IIEC, serving as the Research Officer."
+      ]
+    },
+
+    {
+      "tag": "assistant_research_officer",
+      "patterns": [
+        "Who is the assistant research officer?",
+        "Who is the assistant research officer of IIEC?",
+        "Who assists with research at IIEC?",
+        "IIEC assistant research officer's name?",
+        "Assistant research officer of IIEC?",
+        "Tell me about the assistant research officer of IIEC",
+        "Who assists with research activities at IIEC?",
+        "Who is Md. Nurullah?",
+        "What position does Md. Nurullah hold at IIEC?",
+        "Md. Nurullah's role at IIEC?"
+      ],
+      "responses": [
+        "Md. Nurullah is the Assistant Research Officer of the IIEC.",
+        "Md. Nurullah holds the position of Assistant Research Officer at IIEC.",
+        "The Assistant Research Officer of IIEC is Md. Nurullah.",
+        "At IIEC, Md. Nurullah serves as the Assistant Research Officer.",
+        "Md. Nurullah assists with research efforts at IIEC as its Assistant Research Officer.",
+        "Md. Nurullah is responsible for assisting with research at IIEC, serving as the Assistant Research Officer."
+      ]
+    },
+
+    {
+      "tag": "executive_panel_president",
+      "patterns": [
+        "Who is the president?",
+        "Who is the president of IIEC?",
+        "Who leads IIEC?",
+        "IIEC president's name?",
+        "President of IIEC?",
+        "Tell me about the president of IIEC",
+        "Who heads IIEC?",
+        "Who is Saidul Kadri?",
+        "What position does Saidul Kadri hold at IIEC?",
+        "Saidul Kadri's role at IIEC?"
+      ],
+      "responses": [
+        "Saidul Kadri is the President of the IIEC.",
+        "Saidul Kadri holds the position of President at IIEC.",
+        "The President of IIEC is Saidul Kadri.",
+        "At IIEC, Saidul Kadri serves as the President.",
+        "Saidul Kadri leads IIEC as its President.",
+        "Saidul Kadri is the leader of IIEC, serving as President."
+      ]
+    },
+
+    {
+      "tag": "vice_president",
+      "patterns": [
+        "Who is the Vice-President?",
+        "Who is the Vice-President of IIEC?",
+        "Who holds the position of Vice-President at IIEC?",
+        "IIEC Vice-President's name?",
+        "Vice-President of IIEC?",
+        "Tell me about the Vice-President of IIEC",
+        "Who are Johora Islam Joba and Nahida Sultana?",
+        "What position do Johora Islam Joba and Nahida Sultana hold at IIEC?",
+        "Role of Johora Islam Joba and Nahida Sultana at IIEC?"
+      ],
+      "responses": [
+        "Johora Islam Joba and Nahida Sultana are the Vice-Presidents of the IIEC.",
+        "Johora Islam Joba and Nahida Sultana hold the position of Vice-President at IIEC.",
+        "The Vice-Presidents of IIEC are Johora Islam Joba and Nahida Sultana.",
+        "At IIEC, Johora Islam Joba and Nahida Sultana serve as Vice-Presidents.",
+        "Johora Islam Joba and Nahida Sultana jointly lead IIEC as Vice-Presidents.",
+        "Johora Islam Joba and Nahida Sultana are the leaders of IIEC, serving as vice president."
+      ]
+    },
+
+    {
+      "tag": "general_secretary",
+      "patterns": [
+        "Who is the General Secretary?",
+        "Who is the General Secretary of IIEC?",
+        "Who holds the position of General Secretary at IIEC?",
+        "IIEC General Secretary's name?",
+        "General Secretary of IIEC?",
+        "Tell me about the General Secretary of IIEC",
+        "Who is Md Hasanul Banna Izaz?",
+        "What position does Md Hasanul Banna Izaz hold at IIEC?",
+        "Role of Md Hasanul Banna Izaz at IIEC?"
+      ],
+      "responses": [
+        "Md Hasanul Banna Izaz is the General Secretary of the IIEC.",
+        "Md Hasanul Banna Izaz holds the position of General Secretary at IIEC.",
+        "The General Secretary of IIEC is Md Hasanul Banna Izaz.",
+        "At IIEC, Md Hasanul Banna Izaz serves as the General Secretary.",
+        "Md Hasanul Banna Izaz manages administrative affairs at IIEC as General Secretary.",
+        "Md Hasanul Banna Izaz is responsible for administrative tasks at IIEC as General Secretary."
+      ]
+    },
+
+    {
+      "tag": "assistant_general_secretary",
+      "patterns": [
+        "Who is the Assistant General Secretary?",
+        "Who is the Assistant General Secretary of IIEC?",
+        "Who holds the position of Assistant General Secretary at IIEC?",
+        "IIEC Assistant General Secretary's name?",
+        "Assistant General Secretary of IIEC?",
+        "Tell me about the Assistant General Secretary of IIEC",
+        "Who is Rasel Ahmed?",
+        "What position does Rasel Ahmed hold at IIEC?",
+        "Role of Rasel Ahmed at IIEC?"
+      ],
+      "responses": [
+        "Rasel Ahmed is the Assistant General Secretary of the IIEC.",
+        "Rasel Ahmed holds the position of Assistant General Secretary at IIEC.",
+        "The Assistant General Secretary of IIEC is Rasel Ahmed.",
+        "At IIEC, Rasel Ahmed serves as the Assistant General Secretary.",
+        "Rasel Ahmed assists in administrative tasks at IIEC as Assistant General Secretary.",
+        "Rasel Ahmed supports administrative operations at IIEC as Assistant General Secretary."
+      ]
+    },
+
+    {
+      "tag": "treasurer",
+      "patterns": [
+        "Who is the Treasurer?",
+        "Who is the Treasurer of IIEC?",
+        "Who holds the position of Treasurer at IIEC?",
+        "IIEC Treasurer's name?",
+        "Treasurer of IIEC?",
+        "Tell me about the Treasurer of IIEC",
+        "Who is Al-Amin?",
+        "What position does Al-Amin hold at IIEC?",
+        "Role of Al-Amin at IIEC?"
+      ],
+      "responses": [
+        "Al-Amin is the Treasurer of the IIEC.",
+        "Al-Amin holds the position of Treasurer at IIEC.",
+        "The Treasurer of IIEC is Al-Amin.",
+        "At IIEC, Al-Amin serves as the Treasurer.",
+        "Al-Amin manages financial matters at IIEC as Treasurer.",
+        "Al-Amin is responsible for financial management at IIEC as Treasurer."
+      ]
+    },
+
+    {
+      "tag": "assistant_treasurer",
+      "patterns": [
+        "Who is the Assistant Treasurer?",
+        "Who is the Assistant Treasurer of IIEC?",
+        "Who holds the position of Assistant Treasurer at IIEC?",
+        "IIEC Assistant Treasurer's name?",
+        "Assistant Treasurer of IIEC?",
+        "Tell me about the Assistant Treasurer of IIEC",
+        "Who is Roksana Alal Maria?",
+        "What position does Roksana Alal Maria hold at IIEC?",
+        "Role of Roksana Alal Maria at IIEC?"
+      ],
+      "responses": [
+        "Roksana Alal Maria is the Assistant Treasurer of the IIEC.",
+        "Roksana Alal Maria holds the position of Assistant Treasurer at IIEC.",
+        "The Assistant Treasurer of IIEC is Roksana Alal Maria.",
+        "At IIEC, Roksana Alal Maria serves as the Assistant Treasurer.",
+        "Roksana Alal Maria assists in financial matters at IIEC as Assistant Treasurer.",
+        "Roksana Alal Maria is responsible for supporting financial management at IIEC as Assistant Treasurer."
+      ]
+    },
+
+    {
+      "tag": "joint_secretary",
+      "patterns": [
+        "Who is the Joint Secretary?",
+        "Who is the Joint Secretary of IIEC?",
+        "Who holds the position of Joint Secretary at IIEC?",
+        "IIEC Joint Secretary's name?",
+        "Joint Secretary of IIEC?",
+        "Tell me about the Joint Secretary of IIEC",
+        "Who is Rana Mia?",
+        "What position does Rana Mia hold at IIEC?",
+        "Role of Rana Mia at IIEC?"
+      ],
+      "responses": [
+        "Rana Mia is the Joint Secretary of the IIEC.",
+        "Rana Mia holds the position of Joint Secretary at IIEC.",
+        "The Joint Secretary of IIEC is Rana Mia.",
+        "At IIEC, Rana Mia serves as the Joint Secretary.",
+        "Rana Mia assists in administrative tasks at IIEC as Joint Secretary.",
+        "Rana Mia supports administrative operations at IIEC as Joint Secretary."
+      ]
+    },
+
+    {
+      "tag": "innovation_secretary",
+      "patterns": [
+        "Who is the Innovation Secretary?",
+        "Who is the Innovation Secretary of IIEC?",
+        "Who holds the position of Innovation Secretary at IIEC?",
+        "IIEC Innovation Secretary's name?",
+        "Innovation Secretary of IIEC?",
+        "Tell me about the Innovation Secretary of IIEC",
+        "Who is Md. Anwar Hossain Rahim?",
+        "What position does Md. Anwar Hossain Rahim hold at IIEC?",
+        "Role of Md. Anwar Hossain Rahim at IIEC?"
+      ],
+      "responses": [
+        "Md. Anwar Hossain Rahim is the Innovation Secretary of the IIEC.",
+        "Md. Anwar Hossain Rahim holds the position of Innovation Secretary at IIEC.",
+        "The Innovation Secretary of IIEC is Md. Anwar Hossain Rahim.",
+        "At IIEC, Md. Anwar Hossain Rahim serves as the Innovation Secretary.",
+        "Md. Anwar Hossain Rahim is responsible for driving innovation initiatives at IIEC as Innovation Secretary.",
+        "Md. Anwar Hossain Rahim leads innovation efforts at IIEC as Innovation Secretary."
+      ]
+    },
+
+    {
+      "tag": "co_innovation_secretary",
+      "patterns": [
+        "Who is the Co-Innovation Secretary?",
+        "Who is the Co-Innovation Secretary of IIEC?",
+        "Who holds the position of Co-Innovation Secretary at IIEC?",
+        "IIEC Co-Innovation Secretary's name?",
+        "Co-Innovation Secretary of IIEC?",
+        "Tell me about the Co-Innovation Secretary of IIEC",
+        "Who is Mathias Talukder Dhrubo?",
+        "What position does Mathias Talukder Dhrubo hold at IIEC?",
+        "Role of Mathias Talukder Dhrubo at IIEC?"
+      ],
+      "responses": [
+        "Mathias Talukder Dhrubo is the Co-Innovation Secretary of the IIEC.",
+        "Mathias Talukder Dhrubo holds the position of Co-Innovation Secretary at IIEC.",
+        "The Co-Innovation Secretary of IIEC is Mathias Talukder Dhrubo.",
+        "At IIEC, Mathias Talukder Dhrubo serves as the Co-Innovation Secretary.",
+        "Mathias Talukder Dhrubo is responsible for collaborative innovation initiatives at IIEC as Co-Innovation Secretary.",
+        "Mathias Talukder Dhrubo drives joint innovation efforts at IIEC as Co-Innovation Secretary."
+      ]
+    },
+
+    {
+      "tag": "organizing_secretary",
+      "patterns": [
+        "Who is the Organizing Secretary?",
+        "Who is the Organizing Secretary of IIEC?",
+        "Who holds the position of Organizing Secretary at IIEC?",
+        "IIEC Organizing Secretary's name?",
+        "Organizing Secretary of IIEC?",
+        "Tell me about the Organizing Secretary of IIEC",
+        "Who is Md Bayazid Ali?",
+        "What position does Md Bayazid Ali hold at IIEC?",
+        "Role of Md Bayazid Ali at IIEC?"
+      ],
+      "responses": [
+        "Md Bayazid Ali is the Organizing Secretary of the IIEC.",
+        "Md Bayazid Ali holds the position of Organizing Secretary at IIEC.",
+        "The Organizing Secretary of IIEC is Md Bayazid Ali.",
+        "At IIEC, Md Bayazid Ali serves as the Organizing Secretary.",
+        "Md Bayazid Ali manages event organization at IIEC as Organizing Secretary.",
+        "Md Bayazid Ali coordinates logistical aspects of events at IIEC as Organizing Secretary."
+      ]
+    },
+    {
+      "tag": "co_organizing_secretary",
+      "patterns": [
+        "Who is the Co-Organizing Secretary?",
+        "Who is the Co-Organizing Secretary of IIEC?",
+        "Who holds the position of Co-Organizing Secretary at IIEC?",
+        "IIEC Co-Organizing Secretary's name?",
+        "Co-Organizing Secretary of IIEC?",
+        "Tell me about the Co-Organizing Secretary of IIEC",
+        "Who is Md. Mahodi Hasan and Khandaker Maksudur Rahaman?",
+        "What position do Md. Mahodi Hasan and Khandaker Maksudur Rahaman hold at IIEC?",
+        "Role of Md. Mahodi Hasan and Khandaker Maksudur Rahaman at IIEC?"
+      ],
+      "responses": [
+        "Md. Mahodi Hasan and Khandaker Maksudur Rahaman are the Co-Organizing Secretaries of the IIEC.",
+        "Md. Mahodi Hasan and Khandaker Maksudur Rahaman hold the position of Co-Organizing Secretaries at IIEC.",
+        "The Co-Organizing Secretaries of IIEC are Md. Mahodi Hasan and Khandaker Maksudur Rahaman.",
+        "At IIEC, Md. Mahodi Hasan and Khandaker Maksudur Rahaman serve as the Co-Organizing Secretaries.",
+        "Md. Mahodi Hasan and Khandaker Maksudur Rahaman oversee event coordination at IIEC as Co-Organizing Secretaries.",
+        "Md. Mahodi Hasan and Khandaker Maksudur Rahaman are responsible for organizing events at IIEC as Co-Organizing Secretaries."
+      ]
+    },
+
+    {
+      "tag": "media_and_publication_secretary",
+      "patterns": [
+        "Who is the Media and Publication Secretary?",
+        "Who is the Media and Publication Secretary of IIEC?",
+        "Who holds the position of Media and Publication Secretary at IIEC?",
+        "IIEC Media and Publication Secretary's name?",
+        "Media and Publication Secretary of IIEC?",
+        "Tell me about the Media and Publication Secretary of IIEC",
+        "Who is Hussain Muhammod Al Rafi?",
+        "What position does Hussain Muhammod Al Rafi hold at IIEC?",
+        "Role of Hussain Muhammod Al Rafi at IIEC?"
+      ],
+      "responses": [
+        "Hussain Muhammod Al Rafi is the Media and Publication Secretary of the IIEC.",
+        "Hussain Muhammod Al Rafi holds the position of Media and Publication Secretary at IIEC.",
+        "The Media and Publication Secretary of IIEC is Hussain Muhammod Al Rafi.",
+        "At IIEC, Hussain Muhammod Al Rafi serves as the Media and Publication Secretary.",
+        "Hussain Muhammod Al Rafi manages media and publication activities at IIEC.",
+        "Hussain Muhammod Al Rafi is responsible for handling media and publication affairs at IIEC."
+      ]
+    },
+
+    {
+      "tag": "event_secretary",
+      "patterns": [
+        "Who is the Event Secretary?",
+        "Who is the Event Secretary of IIEC?",
+        "Who holds the position of Event Secretary at IIEC?",
+        "IIEC Event Secretary's name?",
+        "Event Secretary of IIEC?",
+        "Tell me about the Event Secretary of IIEC",
+        "Who is Md. Fayez Al-Hakim Khan?",
+        "What position does Md. Fayez Al-Hakim Khan hold at IIEC?",
+        "Role of Md. Fayez Al-Hakim Khan at IIEC?"
+      ],
+      "responses": [
+        "Md. Fayez Al-Hakim Khan is the Event Secretary of the IIEC.",
+        "Md. Fayez Al-Hakim Khan holds the position of Event Secretary at IIEC.",
+        "The Event Secretary of IIEC is Md. Fayez Al-Hakim Khan.",
+        "At IIEC, Md. Fayez Al-Hakim Khan serves as the Event Secretary.",
+        "Md. Fayez Al-Hakim Khan coordinates event planning and execution at IIEC.",
+        "Md. Fayez Al-Hakim Khan is responsible for organizing events at IIEC as Event Secretary."
+      ]
+    },
+
+    {
+      "tag": "co_event_secretary",
+      "patterns": [
+        "Who is the Co-Event Secretary?",
+        "Who is the Co-Event Secretary of IIEC?",
+        "Who holds the position of Co-Event Secretary at IIEC?",
+        "IIEC Co-Event Secretary's name?",
+        "Co-Event Secretary of IIEC?",
+        "Tell me about the Co-Event Secretary of IIEC",
+        "Who is Md. Ashraful Abedin Fahim?",
+        "What position does Md. Ashraful Abedin Fahim hold at IIEC?",
+        "Role of Md. Ashraful Abedin Fahim at IIEC?"
+      ],
+      "responses": [
+        "Md. Ashraful Abedin Fahim is the Co-Event Secretary of the IIEC.",
+        "Md. Ashraful Abedin Fahim holds the position of Co-Event Secretary at IIEC.",
+        "The Co-Event Secretary of IIEC is Md. Ashraful Abedin Fahim.",
+        "At IIEC, Md. Ashraful Abedin Fahim serves as the Co-Event Secretary.",
+        "Md. Ashraful Abedin Fahim assists in organizing events at IIEC as Co-Event Secretary.",
+        "Md. Ashraful Abedin Fahim shares responsibilities in event planning and execution at IIEC as Co-Event Secretary."
+      ]
+    },
+
+    {
+      "tag": "human_resource_secretary",
+      "patterns": [
+        "Who is the Human Resource Secretary?",
+        "Who is the Human Resource Secretary of IIEC?",
+        "Who holds the position of Human Resource Secretary at IIEC?",
+        "IIEC Human Resource Secretary's name?",
+        "Human Resource Secretary of IIEC?",
+        "Tell me about the Human Resource Secretary of IIEC",
+        "Who is Meherun Nesa Shanta?",
+        "What position does Meherun Nesa Shanta hold at IIEC?",
+        "Role of Meherun Nesa Shanta at IIEC?"
+      ],
+      "responses": [
+        "Meherun Nesa Shanta is the Human Resource Secretary of the IIEC.",
+        "Meherun Nesa Shanta holds the position of Human Resource Secretary at IIEC.",
+        "The Human Resource Secretary of IIEC is Meherun Nesa Shanta.",
+        "At IIEC, Meherun Nesa Shanta serves as the Human Resource Secretary.",
+        "Meherun Nesa Shanta oversees human resource management at IIEC.",
+        "Meherun Nesa Shanta is responsible for HR-related matters at IIEC as Human Resource Secretary."
+      ]
+    },
+
+    {
+      "tag": "co_human_resource_secretary",
+      "patterns": [
+        "Who is the Co-Human Resource Secretary?",
+        "Who is the Co-Human Resource Secretary of IIEC?",
+        "Who holds the position of Co-Human Resource Secretary at IIEC?",
+        "IIEC Co-Human Resource Secretary's name?",
+        "Co-Human Resource Secretary of IIEC?",
+        "Tell me about the Co-Human Resource Secretary of IIEC",
+        "Who is Mahmud Hasan Tuhin?",
+        "What position does Mahmud Hasan Tuhin hold at IIEC?",
+        "Role of Mahmud Hasan Tuhin at IIEC?"
+      ],
+      "responses": [
+        "Mahmud Hasan Tuhin is the Co-Human Resource Secretary of the IIEC.",
+        "Mahmud Hasan Tuhin holds the position of Co-Human Resource Secretary at IIEC.",
+        "The Co-Human Resource Secretary of IIEC is Mahmud Hasan Tuhin.",
+        "At IIEC, Mahmud Hasan Tuhin serves as the Co-Human Resource Secretary.",
+        "Mahmud Hasan Tuhin shares responsibilities in human resource management at IIEC as Co-Human Resource Secretary.",
+        "Mahmud Hasan Tuhin assists in HR-related tasks at IIEC as Co-Human Resource Secretary."
+      ]
+    },
+
+    {
+      "tag": "student_relationship_secretary",
+      "patterns": [
+        "Who is the Student Relationship Secretary?",
+        "Who is the Student Relationship Secretary of IIEC?",
+        "Who holds the position of Student Relationship Secretary at IIEC?",
+        "IIEC Student Relationship Secretary's name?",
+        "Student Relationship Secretary of IIEC?",
+        "Tell me about the Student Relationship Secretary of IIEC",
+        "Who is Rezwana Jahan Oyshe?",
+        "What position does Rezwana Jahan Oyshe hold at IIEC?",
+        "Role of Rezwana Jahan Oyshe at IIEC?"
+      ],
+      "responses": [
+        "Rezwana Jahan Oyshe is the Student Relationship Secretary of the IIEC.",
+        "Rezwana Jahan Oyshe holds the position of Student Relationship Secretary at IIEC.",
+        "The Student Relationship Secretary of IIEC is Rezwana Jahan Oyshe.",
+        "At IIEC, Rezwana Jahan Oyshe serves as the Student Relationship Secretary.",
+        "Rezwana Jahan Oyshe manages student relations at IIEC as Student Relationship Secretary.",
+        "Rezwana Jahan Oyshe is responsible for fostering student engagement at IIEC as Student Relationship Secretary."
+      ]
+    },
+
+    {
+      "tag": "co_student_relationship_secretary",
+      "patterns": [
+        "Who is the Co-Student Relationship Secretary?",
+        "Who is the Co-Student Relationship Secretary of IIEC?",
+        "Who holds the position of Co-Student Relationship Secretary at IIEC?",
+        "IIEC Co-Student Relationship Secretary's name?",
+        "Co-Student Relationship Secretary of IIEC?",
+        "Tell me about the Co-Student Relationship Secretary of IIEC",
+        "Who is Afrin Akter Dolna?",
+        "What position does Afrin Akter Dolna hold at IIEC?",
+        "Role of Afrin Akter Dolna at IIEC?"
+      ],
+      "responses": [
+        "Afrin Akter Dolna is the Co-Student Relationship Secretary of the IIEC.",
+        "Afrin Akter Dolna holds the position of Co-Student Relationship Secretary at IIEC.",
+        "The Co-Student Relationship Secretary of IIEC is Afrin Akter Dolna.",
+        "At IIEC, Afrin Akter Dolna serves as the Co-Student Relationship Secretary.",
+        "Afrin Akter Dolna assists in managing student relations at IIEC as Co-Student Relationship Secretary.",
+        "Afrin Akter Dolna shares responsibilities in fostering student engagement at IIEC as Co-Student Relationship Secretary."
+      ]
+    },
+
+    {
+      "tag": "mechanical_designer",
+      "patterns": [
+        "Who is the Mechanical Designer?",
+        "Who is the Mechanical Designer of IIEC?",
+        "Who holds the position of Mechanical Designer at IIEC?",
+        "IIEC Mechanical Designer's name?",
+        "Mechanical Designer of IIEC?",
+        "Tell me about the Mechanical Designer of IIEC",
+        "Who is Md. Moshaddek Hossain?",
+        "What position does Md. Moshaddek Hossain hold at IIEC?",
+        "Role of Md. Moshaddek Hossain at IIEC?"
+      ],
+      "responses": [
+        "Md. Moshaddek Hossain is the Mechanical Designer of the IIEC.",
+        "Md. Moshaddek Hossain holds the position of Mechanical Designer at IIEC.",
+        "The Mechanical Designer of IIEC is Md. Moshaddek Hossain.",
+        "At IIEC, Md. Moshaddek Hossain serves as the Mechanical Designer.",
+        "Md. Moshaddek Hossain is responsible for mechanical design projects at IIEC.",
+        "Md. Moshaddek Hossain leads mechanical design initiatives at IIEC."
+      ]
+    },
+
+    {
+      "tag": "co_mechanical_designer",
+      "patterns": [
+        "Who is the Co-Mechanical Designer?",
+        "Who is the Co-Mechanical Designer of IIEC?",
+        "Who holds the position of Co-Mechanical Designer at IIEC?",
+        "IIEC Co-Mechanical Designer's name?",
+        "Co-Mechanical Designer of IIEC?",
+        "Tell me about the Co-Mechanical Designer of IIEC",
+        "Who is Md. Golam Rabbani?",
+        "What position does Md. Golam Rabbani hold at IIEC?",
+        "Role of Md. Golam Rabbani at IIEC?"
+      ],
+      "responses": [
+        "Md. Golam Rabbani is the Co-Mechanical Designer of the IIEC.",
+        "Md. Golam Rabbani holds the position of Co-Mechanical Designer at IIEC.",
+        "The Co-Mechanical Designer of IIEC is Md. Golam Rabbani.",
+        "At IIEC, Md. Golam Rabbani serves as the Co-Mechanical Designer.",
+        "Md. Golam Rabbani collaborates on mechanical design projects at IIEC as Co-Mechanical Designer.",
+        "Md. Golam Rabbani shares responsibilities in mechanical design initiatives at IIEC as Co-Mechanical Designer."
+      ]
+    },
+
+    {
+      "tag": "programmer",
+      "patterns": [
+        "Who is the Programmer?",
+        "Who is the Programmer of IIEC?",
+        "Who holds the position of Programmer at IIEC?",
+        "IIEC Programmer's name?",
+        "Programmer of IIEC?",
+        "Tell me about the Programmer of IIEC",
+        "Who is MD. Ashraful Haque?",
+        "What position does MD. Ashraful Haque hold at IIEC?",
+        "Role of MD. Ashraful Haque at IIEC?"
+      ],
+      "responses": [
+        "MD. Ashraful Haque is the Programmer of the IIEC.",
+        "MD. Ashraful Haque holds the position of Programmer at IIEC.",
+        "The Programmer of IIEC is MD. Ashraful Haque.",
+        "At IIEC, MD. Ashraful Haque serves as the Programmer.",
+        "MD. Ashraful Haque is responsible for software development projects at IIEC.",
+        "MD. Ashraful Haque leads software development initiatives at IIEC."
+      ]
+    },
+    {
+      "tag": "co_programmer",
+      "patterns": [
+        "Who is the Co-Programmer?",
+        "Who is the Co-Programmer of IIEC?",
+        "Who holds the position of Co-Programmer at IIEC?",
+        "IIEC Co-Programmer's name?",
+        "Co-Programmer of IIEC?",
+        "Tell me about the Co-Programmer of IIEC",
+        "Who is Md. Abu Bakor Siddik?",
+        "What position does Md. Abu Bakor Siddik hold at IIEC?",
+        "Role of Md. Abu Bakor Siddik at IIEC?"
+      ],
+      "responses": [
+        "Md. Abu Bakor Siddik is the Co-Programmer of the IIEC.",
+        "Md. Abu Bakor Siddik holds the position of Co-Programmer at IIEC.",
+        "The Co-Programmer of IIEC is Md. Abu Bakor Siddik.",
+        "At IIEC, Md. Abu Bakor Siddik serves as the Co-Programmer.",
+        "Md. Abu Bakor Siddik collaborates on software development projects at IIEC as Co-Programmer.",
+        "Md. Abu Bakor Siddik shares responsibilities in software development initiatives at IIEC as Co-Programmer."
+      ]
+    },
+    {
+      "tag": "circuit_designer",
+      "patterns": [
+        "Who is the Circuit Designer?",
+        "Who is the Circuit Designer of IIEC?",
+        "Who holds the position of Circuit Designer at IIEC?",
+        "IIEC Circuit Designer's name?",
+        "Circuit Designer of IIEC?",
+        "Tell me about the Circuit Designer of IIEC",
+        "Who is Md.Rezwanul Haque?",
+        "What position does Md.Rezwanul Haque hold at IIEC?",
+        "Role of Md.Rezwanul Haque at IIEC?"
+      ],
+      "responses": [
+        "Md.Rezwanul Haque is the Circuit Designer of the IIEC.",
+        "Md.Rezwanul Haque holds the position of Circuit Designer at IIEC.",
+        "The Circuit Designer of IIEC is Md.Rezwanul Haque.",
+        "At IIEC, Md.Rezwanul Haque serves as the Circuit Designer.",
+        "Md.Rezwanul Haque is responsible for designing circuits at IIEC.",
+        "Md.Rezwanul Haque leads circuit design projects at IIEC."
+      ]
+    },
+    {
+      "tag": "co_circuit_designer",
+      "patterns": [
+        "Who is the Co-Circuit Designer?",
+        "Who is the Co-Circuit Designer of IIEC?",
+        "Who holds the position of Co-Circuit Designer at IIEC?",
+        "IIEC Co-Circuit Designer's name?",
+        "Co-Circuit Designer of IIEC?",
+        "Tell me about the Co-Circuit Designer of IIEC",
+        "Who is M.Shoyab Sadik?",
+        "What position does M.Shoyab Sadik hold at IIEC?",
+        "Role of M.Shoyab Sadik at IIEC?"
+      ],
+      "responses": [
+        "M.Shoyab Sadik is the Co-Circuit Designer of the IIEC.",
+        "M.Shoyab Sadik holds the position of Co-Circuit Designer at IIEC.",
+        "The Co-Circuit Designer of IIEC is M.Shoyab Sadik.",
+        "At IIEC, M.Shoyab Sadik serves as the Co-Circuit Designer.",
+        "M.Shoyab Sadik collaborates on circuit design projects at IIEC as Co-Circuit Designer.",
+        "M.Shoyab Sadik shares responsibilities in circuit design initiatives at IIEC as Co-Circuit Designer."
+      ]
+    },
+    {
+      "tag": "business_and_development_secretary",
+      "patterns": [
+        "Who is the Business and Development Secretary?",
+        "Who is the Business and Development Secretary of IIEC?",
+        "Who holds the position of Business and Development Secretary at IIEC?",
+        "IIEC Business and Development Secretary's name?",
+        "Business and Development Secretary of IIEC?",
+        "Tell me about the Business and Development Secretary of IIEC",
+        "Who is Hossain Muhammad Nahiyan?",
+        "What position does Hossain Muhammad Nahiyan hold at IIEC?",
+        "Role of Hossain Muhammad Nahiyan at IIEC?"
+      ],
+      "responses": [
+        "Hossain Muhammad Nahiyan is the Business and Development Secretary of the IIEC.",
+        "Hossain Muhammad Nahiyan holds the position of Business and Development Secretary at IIEC.",
+        "The Business and Development Secretary of IIEC is Hossain Muhammad Nahiyan.",
+        "At IIEC, Hossain Muhammad Nahiyan serves as the Business and Development Secretary.",
+        "Hossain Muhammad Nahiyan is responsible for business development at IIEC.",
+        "Hossain Muhammad Nahiyan leads business development initiatives at IIEC."
+      ]
+    },
+    {
+      "tag": "co_business_and_development_secretary",
+      "patterns": [
+        "Who is the Co-Business and Development Secretary?",
+        "Who is the Co-Business and Development Secretary of IIEC?",
+        "Who holds the position of Co-Business and Development Secretary at IIEC?",
+        "IIEC Co-Business and Development Secretary's name?",
+        "Co-Business and Development Secretary of IIEC?",
+        "Tell me about the Co-Business and Development Secretary of IIEC",
+        "Who is Ananna Sardar?",
+        "What position does Ananna Sardar hold at IIEC?",
+        "Role of Ananna Sardar at IIEC?"
+      ],
+      "responses": [
+        "Ananna Sardar is the Co-Business and Development Secretary of the IIEC.",
+        "Ananna Sardar holds the position of Co-Business and Development Secretary at IIEC.",
+        "The Co-Business and Development Secretary of IIEC is Ananna Sardar.",
+        "At IIEC, Ananna Sardar serves as the Co-Business and Development Secretary.",
+        "Ananna Sardar is responsible for business development at IIEC.",
+        "Ananna Sardar leads business development initiatives at IIEC."
+      ]
+    },
+    {
+      "tag": "media_and_market_analyzer",
+      "patterns": [
+        "Who is the Media and Market Analyzer?",
+        "Who is the Media and Market Analyzer of IIEC?",
+        "Who holds the position of Media and Market Analyzer at IIEC?",
+        "IIEC Media and Market Analyzer's name?",
+        "Media and Market Analyzer of IIEC?",
+        "Tell me about the Media and Market Analyzer of IIEC",
+        "Who is Real Chandra Das?",
+        "What position does Real Chandra Das hold at IIEC?",
+        "Role of Real Chandra Das at IIEC?"
+      ],
+      "responses": [
+        "Real Chandra Das is the Media and Market Analyzer of the IIEC.",
+        "Real Chandra Das holds the position of Media and Market Analyzer at IIEC.",
+        "The Media and Market Analyzer of IIEC is Real Chandra Das.",
+        "At IIEC, Real Chandra Das serves as the Media and Market Analyzer.",
+        "Real Chandra Das analyzes media and market trends for IIEC.",
+        "Real Chandra Das provides insights into media and market dynamics for IIEC."
+      ]
+    },
+    {
+      "tag": "co_media_and_market_analyzer",
+      "patterns": [
+        "Who is the Co-Media and Market Analyzer?",
+        "Who is the Co-Media and Market Analyzer of IIEC?",
+        "Who holds the position of Co-Media and Market Analyzer at IIEC?",
+        "IIEC Co-Media and Market Analyzer's name?",
+        "Co-Media and Market Analyzer of IIEC?",
+        "Tell me about the Co-Media and Market Analyzer of IIEC",
+        "Who is Md Moshiur Rahman?",
+        "What position does Md Moshiur Rahman hold at IIEC?",
+        "Role of Md Moshiur Rahman at IIEC?"
+      ],
+      "responses": [
+        "Md Moshiur Rahman is the Co-Media and Market Analyzer of the IIEC.",
+        "Md Moshiur Rahman holds the position of Co-Media and Market Analyzer at IIEC.",
+        "The Co-Media and Market Analyzer of IIEC is Md Moshiur Rahman.",
+        "At IIEC, Md Moshiur Rahman serves as the Co-Media and Market Analyzer.",
+        "Md Moshiur Rahman analyzes media and market trends for IIEC.",
+        "Md Moshiur Rahman provides insights into media and market dynamics for IIEC."
+      ]
+    },
+    {
+      "tag": "content_writer",
+      "patterns": [
+        "Who is the Content Writer?",
+        "Who is the Content Writer of IIEC?",
+        "Who holds the position of Content Writer at IIEC?",
+        "IIEC Content Writer's name?",
+        "Content Writer of IIEC?",
+        "Tell me about the Content Writer of IIEC",
+        "Who is Munia Sultana?",
+        "What position does Munia Sultana hold at IIEC?",
+        "Role of Munia Sultana at IIEC?"
+      ],
+      "responses": [
+        "Munia Sultana is the Content Writer of the IIEC.",
+        "Munia Sultana holds the position of Content Writer at IIEC.",
+        "The Content Writer of IIEC is Munia Sultana.",
+        "At IIEC, Munia Sultana serves as the Content Writer.",
+        "Munia Sultana writes content for IIEC.",
+        "Munia Sultana creates written material for IIEC."
+      ]
+    },
+    {
+      "tag": "co_content_writer",
+      "patterns": [
+        "Who is the Co-Content Writer?",
+        "Who is the Co-Content Writer of IIEC?",
+        "Who holds the position of Co-Content Writer at IIEC?",
+        "IIEC Co-Content Writer's name?",
+        "Co-Content Writer of IIEC?",
+        "Tell me about the Co-Content Writer of IIEC",
+        "Who is Md.Shoeab Akhter?",
+        "What position does Md.Shoeab Akhter hold at IIEC?",
+        "Role of Md.Shoeab Akhter at IIEC?"
+      ],
+      "responses": [
+        "Md.Shoeab Akhter is the Co-Content Writer of the IIEC.",
+        "Md.Shoeab Akhter holds the position of Co-Content Writer at IIEC.",
+        "The Co-Content Writer of IIEC is Md.Shoeab Akhter.",
+        "At IIEC, Md.Shoeab Akhter serves as the Co-Content Writer.",
+        "Md.Shoeab Akhter writes content for IIEC.",
+        "Md.Shoeab Akhter creates written material for IIEC."
+      ]
+    },
+    {
+      "tag": "photography_secretary",
+      "patterns": [
+        "Who is the Photography Secretary?",
+        "Who is the Photography Secretary of IIEC?",
+        "Who holds the position of Photography Secretary at IIEC?",
+        "IIEC Photography Secretary's name?",
+        "Photography Secretary of IIEC?",
+        "Tell me about the Photography Secretary of IIEC",
+        "Who is Md Rezwan Hossain?",
+        "What position does Md Rezwan Hossain hold at IIEC?",
+        "Role of Md Rezwan Hossain at IIEC?"
+      ],
+      "responses": [
+        "Md Rezwan Hossain is the Photography Secretary of the IIEC.",
+        "Md Rezwan Hossain holds the position of Photography Secretary at IIEC.",
+        "The Photography Secretary of IIEC is Md Rezwan Hossain.",
+        "At IIEC, Md Rezwan Hossain serves as the Photography Secretary.",
+        "Md Rezwan Hossain manages photography for IIEC.",
+        "Md Rezwan Hossain oversees photographic content for IIEC."
+      ]
+    },
+    {
+      "tag": "co_photography_secretary",
+      "patterns": [
+        "Who is the Co-Photography Secretary?",
+        "Who is the Co-Photography Secretary of IIEC?",
+        "Who holds the position of Co-Photography Secretary at IIEC?",
+        "IIEC Co-Photography Secretary's name?",
+        "Co-Photography Secretary of IIEC?",
+        "Tell me about the Co-Photography Secretary of IIEC",
+        "Who is Md.Mahabub Hasan?",
+        "What position does Md.Mahabub Hasan hold at IIEC?",
+        "Role of Md.Mahabub Hasan at IIEC?"
+      ],
+      "responses": [
+        "Md.Mahabub Hasan is the Co-Photography Secretary of the IIEC.",
+        "Md.Mahabub Hasan holds the position of Co-Photography Secretary at IIEC.",
+        "The Co-Photography Secretary of IIEC is Md.Mahabub Hasan.",
+        "At IIEC, Md.Mahabub Hasan serves as the Co-Photography Secretary.",
+        "Md.Mahabub Hasan manages photography for IIEC.",
+        "Md.Mahabub Hasan oversees photographic content for IIEC."
+      ]
+    },
+    {
+      "tag": "executive_member_1",
+      "patterns": [
+        "Who is the Executive Member?",
+        "Who is the Executive Member of IIEC?",
+        "Who holds the position of Executive Member at IIEC?",
+        "IIEC Executive Member's name?",
+        "Executive Member of IIEC?",
+        "Tell me about the Executive Member of IIEC",
+        "Who is Md.Jubayer Hasan?",
+        "What position does Md.Jubayer Hasan hold at IIEC?",
+        "Role of Md.Jubayer Hasan at IIEC?"
+      ],
+      "responses": [
+        "Md.Jubayer Hasan is the Executive Member of the IIEC.",
+        "Md.Jubayer Hasan holds the position of Executive Member at IIEC.",
+        "The Executive Member of IIEC is Md.Jubayer Hasan.",
+        "At IIEC, Md.Jubayer Hasan serves as the Executive Member.",
+        "Md.Jubayer Hasan is an executive at IIEC.",
+        "Md.Jubayer Hasan is part of the executive team at IIEC."
+      ]
+    },
+    {
+      "tag": "executive_member_2",
+      "patterns": [
+        "Who is the Executive Member?",
+        "Who is the Executive Member of IIEC?",
+        "Who holds the position of Executive Member at IIEC?",
+        "IIEC Executive Member's name?",
+        "Executive Member of IIEC?",
+        "Tell me about the Executive Member of IIEC",
+        "Who is Md.Sabbir Hossain?",
+        "What position does Md.Sabbir Hossain hold at IIEC?",
+        "Role of Md.Sabbir Hossain at IIEC?"
+      ],
+      "responses": [
+        "Md.Sabbir Hossain is the Executive Member of the IIEC.",
+        "Md.Sabbir Hossain holds the position of Executive Member at IIEC.",
+        "The Executive Member of IIEC is Md.Sabbir Hossain.",
+        "At IIEC, Md.Sabbir Hossain serves as the Executive Member.",
+        "Md.Sabbir Hossain is an executive at IIEC.",
+        "Md.Sabbir Hossain is part of the executive team at IIEC."
+      ]
+    },
+    {
+      "tag": "executive_member_3",
+      "patterns": [
+        "Who is the Executive Member?",
+        "Who is the Executive Member of IIEC?",
+        "Who holds the position of Executive Member at IIEC?",
+        "IIEC Executive Member's name?",
+        "Executive Member of IIEC?",
+        "Tell me about the Executive Member of IIEC",
+        "Who is MD.Imtiaz Sarkar?",
+        "What position does MD.Imtiaz Sarkar hold at IIEC?",
+        "Role of MD.Imtiaz Sarkar at IIEC?"
+      ],
+      "responses": [
+        "MD.Imtiaz Sarkar is the Executive Member of the IIEC.",
+        "MD.Imtiaz Sarkar holds the position of Executive Member at IIEC.",
+        "The Executive Member of IIEC is MD.Imtiaz Sarkar.",
+        "At IIEC, MD.Imtiaz Sarkar serves as the Executive Member.",
+        "MD.Imtiaz Sarkar is an executive at IIEC.",
+        "MD.Imtiaz Sarkar is part of the executive team at IIEC."
+      ]
+    },
+    {
+      "tag": "executive_member_4",
+      "patterns": [
+        "Who is the Executive Member?",
+        "Who is the Executive Member of IIEC?",
+        "Who holds the position of Executive Member at IIEC?",
+        "IIEC Executive Member's name?",
+        "Executive Member of IIEC?",
+        "Tell me about the Executive Member of IIEC",
+        "Who is Ibrahim Kholil?",
+        "What position does Ibrahim Kholil hold at IIEC?",
+        "Role of Ibrahim Kholil at IIEC?"
+      ],
+      "responses": [
+        "Ibrahim Kholil is the Executive Member of the IIEC.",
+        "Ibrahim Kholil holds the position of Executive Member at IIEC.",
+        "The Executive Member of IIEC is Ibrahim Kholil.",
+        "At IIEC, Ibrahim Kholil serves as the Executive Member.",
+        "Ibrahim Kholil is an executive at IIEC.",
+        "Ibrahim Kholil is part of the executive team at IIEC."
+      ]
+    },
+    {
+      "tag": "associate_member1",
+      "patterns": [
+        "Who is the Associate Member?",
+        "Who is the Associate Member of IIEC?",
+        "Who holds the position of Associate Member at IIEC?",
+        "IIEC Associate Member's name?",
+        "Associate Member of IIEC?",
+        "Tell me about the Associate Member of IIEC",
+        "Who is Md.Ismail Hossain?",
+        "What position does Md.Ismail Hossain hold at IIEC?",
+        "Role of Md.Ismail Hossain at IIEC?"
+      ],
+      "responses": [
+        "Md.Ismail Hossain is the Associate Member of the IIEC.",
+        "Md.Ismail Hossain holds the position of Associate Member at IIEC.",
+        "The Associate Member of IIEC is Md.Ismail Hossain.",
+        "At IIEC, Md.Ismail Hossain serves as the Associate Member.",
+        "Md.Ismail Hossain is an associate at IIEC.",
+        "Md.Ismail Hossain is part of the associate team at IIEC."
+      ]
+    },
+    {
+      "tag": "associate_member2",
+      "patterns": [
+        "Who is the Associate Member?",
+        "Who is the Associate Member of IIEC?",
+        "Who holds the position of Associate Member at IIEC?",
+        "IIEC Associate Member's name?",
+        "Associate Member of IIEC?",
+        "Tell me about the Associate Member of IIEC",
+        "Who is Md.Murad Hasan Rimon?",
+        "What position does Md.Murad Hasan Rimon hold at IIEC?",
+        "Role of Md.Murad Hasan Rimon at IIEC?"
+      ],
+      "responses": [
+        "Md.Murad Hasan Rimon is the Associate Member of the IIEC.",
+        "Md.Murad Hasan Rimon holds the position of Associate Member at IIEC.",
+        "The Associate Member of IIEC is Md.Murad Hasan Rimon.",
+        "At IIEC, Md.Murad Hasan Rimon serves as the Associate Member.",
+        "Md.Murad Hasan Rimon is an associate at IIEC.",
+        "Md.Murad Hasan Rimon is part of the associate team at IIEC."
+      ]
+    },
+    {
+      "tag": "associate_member3",
+      "patterns": [
+        "Who is the Associate Member?",
+        "Who is the Associate Member of IIEC?",
+        "Who holds the position of Associate Member at IIEC?",
+        "IIEC Associate Member's name?",
+        "Associate Member of IIEC?",
+        "Tell me about the Associate Member of IIEC",
+        "Who is Md.Arnob Adib?",
+        "What position does Md.Arnob Adib hold at IIEC?",
+        "Role of Md.Arnob Adib at IIEC?"
+      ],
+      "responses": [
+        "Md.Arnob Adib is the Associate Member of the IIEC.",
+        "Md.Arnob Adib holds the position of Associate Member at IIEC.",
+        "The Associate Member of IIEC is Md.Arnob Adib.",
+        "At IIEC, Md.Arnob Adib serves as the Associate Member.",
+        "Md.Arnob Adib is an associate at IIEC.",
+        "Md.Arnob Adib is part of the associate team at IIEC."
+      ]
+    },
+    {
+      "tag": "associate_member4",
+      "patterns": [
+        "Who is the Associate Member?",
+        "Who is the Associate Member of IIEC?",
+        "Who holds the position of Associate Member at IIEC?",
+        "IIEC Associate Member's name?",
+        "Associate Member of IIEC?",
+        "Tell me about the Associate Member of IIEC",
+        "Who is Tanim Rahman Joy?",
+        "What position does Tanim Rahman Joy hold at IIEC?",
+        "Role of Tanim Rahman Joy at IIEC?"
+      ],
+      "responses": [
+        "Tanim Rahman Joy is the Associate Member of the IIEC.",
+        "Tanim Rahman Joy holds the position of Associate Member at IIEC.",
+        "The Associate Member of IIEC is Tanim Rahman Joy.",
+        "At IIEC, Tanim Rahman Joy serves as the Associate Member.",
+        "Tanim Rahman Joy is an associate at IIEC.",
+        "Tanim Rahman Joy is part of the associate team at IIEC."
+      ]
+    },
+    {
+      "tag": "associate_member5",
+      "patterns": [
+        "Who is the Associate Member?",
+        "Who is the Associate Member of IIEC?",
+        "Who holds the position of Associate Member at IIEC?",
+        "IIEC Associate Member's name?",
+        "Associate Member of IIEC?",
+        "Tell me about the Associate Member of IIEC",
+        "Who is Rahat Hossain Rabby?",
+        "What position does Rahat Hossain Rabby hold at IIEC?",
+        "Role of Rahat Hossain Rabby at IIEC?"
+      ],
+      "responses": [
+        "Rahat Hossain Rabby is the Associate Member of the IIEC.",
+        "Rahat Hossain Rabby holds the position of Associate Member at IIEC.",
+        "The Associate Member of IIEC is Rahat Hossain Rabby.",
+        "At IIEC, Rahat Hossain Rabby serves as the Associate Member.",
+        "Rahat Hossain Rabby is an associate at IIEC.",
+        "Rahat Hossain Rabby is part of the associate team at IIEC."
+      ]
+    },
+    {
+      "tag": "associate_member6",
+      "patterns": [
+        "Who is the Associate Member?",
+        "Who is the Associate Member of IIEC?",
+        "Who holds the position of Associate Member at IIEC?",
+        "IIEC Associate Member's name?",
+        "Associate Member of IIEC?",
+        "Tell me about the Associate Member of IIEC",
+        "Who is Shakh Sadi?",
+        "What position does Shakh Sadi hold at IIEC?",
+        "Role of Shakh Sadi at IIEC?"
+      ],
+      "responses": [
+        "Shakh Sadi is the Associate Member of the IIEC.",
+        "Shakh Sadi holds the position of Associate Member at IIEC.",
+        "The Associate Member of IIEC is Shakh Sadi.",
+        "At IIEC, Shakh Sadi serves as the Associate Member.",
+        "Shakh Sadi is an associate at IIEC.",
+        "Shakh Sadi is part of IIEC"
+      ]
+    }
+  ]
+}
+

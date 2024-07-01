@@ -1,0 +1,65 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hey", "hello", "hi", "good morning", "good day", "how are you?", "what's up?", "how is it going?"],
+      "responses": [
+        "I'm IIEC Greeting bot. How can I help you?",
+        "Hello! How can I assist you today?",
+        "Hi there! What can I do for you?",
+        "Good morning! What brings you here?",
+        "Hey! Welcome to our chat. How may I assist you?",
+        "Hey! How's your day going?",
+        "Hi! Need any help or information?"
+      ]
+    },
+    {
+      "tag": "purpose",
+      "patterns": ["who are you?", "why you're made?", "who made you?", "why do you exist?"],
+      "responses": [
+        "Hey, I'm a greeting chatbot made by IIEC.",
+        "I can provide you any information about IIEC. So go ahead and ask any questions you want!",
+        "I'm here to assist you with any questions you have about IIEC.",
+        "I exist to help you learn more about IIEC.",
+        "I'm a chatbot designed to assist with queries related to IIEC.",
+        "I'm IIEC's virtual assistant here to provide you with information.",
+        "I'm a creation of IIEC, ready to answer any questions you may have."
+      ]
+    },
+    {
+      "tag": "full_form",
+      "patterns": ["what's IIEC?", "what's the full form of IIEC?", "What does IIEC stands for?", "IIEC what?", "What do you mean by IIEC?", "What is IIEC?"],
+      "responses": [
+        "I U B A T Innovation and Entrepreneurship Centre.",
+        "It stands for I U B A T Innovation and Entrepreneurship Centre.",
+        "It's I U B A T Innovation and Entrepreneurship Centre."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thank you", "thanks a lot", "thanks!", "appreciate it"],
+      "responses": [
+        "You're welcome!",
+        "No problem!",
+        "Glad I could help!",
+        "You bet!",
+        "Anytime!",
+        "Don't mention it!",
+        "Happy to assist!"
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": ["bye", "goodbye", "see you later", "take care", "bye bye"],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later!",
+        "Take care!",
+        "Bye bye!",
+        "Catch you later!",
+        "Farewell!",
+        "Until next time!"
+      ]
+    }
+  ]
+}

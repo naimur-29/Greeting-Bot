@@ -1,0 +1,404 @@
+{
+  "intents": [
+    {
+      "tag": "services",
+      "patterns": [
+        "What services does IIEC provide?",
+        "Services of IIEC",
+        "What kind of services does IIEC offer?",
+        "Can you tell me the services provided by IIEC?",
+        "What are the offerings of IIEC?",
+        "What facilities does IIEC offer?",
+        "What programs are available at IIEC?",
+        "What can IIEC help me with?",
+        "What activities does IIEC organize?",
+        "What are the key services of IIEC?"
+      ],
+      "responses": [
+        "IIEC arranges workshops, weekly sessions, seminars, idea discussions, and seminars. We provide lab facilities on robotics and programming. You may ask any more questions about facilities.",
+        "We provide workshops, weekly sessions, seminars, idea discussions, and seminars at IIEC. Our lab facilities focus on robotics and programming. Feel free to inquire about any additional facilities.",
+        "IIEC offers various services, including workshops, weekly sessions, seminars, and idea discussions. We also have lab facilities dedicated to robotics and programming. If you have more questions about our facilities, please ask.",
+        "At IIEC, we arrange workshops, weekly sessions, seminars, and idea discussions. We provide lab facilities for robotics and programming. You are welcome to ask more about our facilities.",
+        "Our services at IIEC include organizing workshops, weekly sessions, seminars, and idea discussions. We also offer lab facilities on robotics and programming. Don't hesitate to ask about more facilities.",
+        "IIEC provides a range of services such as workshops, weekly sessions, seminars, and idea discussions. We have lab facilities for robotics and programming. Feel free to ask about additional facilities.",
+        "Workshops, weekly sessions, seminars, and idea discussions are among the services IIEC offers. We also provide lab facilities focused on robotics and programming. Please ask if you need more information on our facilities.",
+        "At IIEC, we offer workshops, weekly sessions, seminars, and idea discussions. Our lab facilities cover robotics and programming. You can ask more about our facilities if needed.",
+        "IIEC organizes workshops, weekly sessions, seminars, and idea discussions. We provide lab facilities in robotics and programming. Feel free to ask about any other facilities.",
+        "Our key services at IIEC include workshops, weekly sessions, seminars, and idea discussions. We also offer lab facilities for robotics and programming. You may inquire further about our facilities."
+      ]
+    },
+    {
+      "tag": "activities",
+      "patterns": [
+        "Tell me about your activities.",
+        "Activities of IIEC",
+        "What are the things IIEC do?",
+        "Work of IIEC",
+        "Program of IIEC"
+      ],
+      "responses": [
+        "IIEC arranges Intra University and National Innovation Competition every year. We organize seminars, webinars, and training to upgrade students' skills. We provide guidance and mentors to help students complete their projects. We continue the activities of the Innovation Hub (a2i project).",
+        "Our activities at IIEC include arranging Intra University and National Innovation Competitions every year, organizing seminars, webinars, and training to enhance students' skills, providing guidance and mentorship to complete projects, and maintaining the activities of the Innovation Hub (a2i project).",
+        "IIEC organizes the Intra University and National Innovation Competition annually. We also conduct seminars, webinars, and training sessions to improve students' skills, offer guidance and mentors for project completion, and sustain the activities of the Innovation Hub (a2i project).",
+        "At IIEC, we arrange annual Intra University and National Innovation Competitions. We organize seminars, webinars, and training to develop students' skills, provide guidance and mentorship for projects, and continue the activities of the Innovation Hub (a2i project).",
+        "The activities of IIEC involve organizing yearly Intra University and National Innovation Competitions, conducting seminars, webinars, and training for skill enhancement, offering project guidance and mentorship, and sustaining the Innovation Hub (a2i project)."
+      ]
+    },
+    {
+      "tag": "latest_events",
+      "patterns": [
+        "Tell me about the recent events of IIEC.",
+        "What are the recent events of IIEC?",
+        "Tell me about the upcoming events of IIEC."
+      ],
+      "responses": [
+        "Recent events of IIEC include the IUBAT Intra Innovation Competition, Technocrats V.1, IIIM-IUBAT Innovative Idea Manifest, Innovation Competition – 2022, and Innovation Competition – 2019.",
+        "The latest events organized by IIEC are the IUBAT Intra Innovation Competition, Technocrats V.1, IIIM-IUBAT Innovative Idea Manifest, Innovation Competition – 2022, and Innovation Competition – 2019.",
+        "IIEC recently held the IUBAT Intra Innovation Competition, Technocrats V.1, IIIM-IUBAT Innovative Idea Manifest, Innovation Competition – 2022, and Innovation Competition – 2019.",
+        "Upcoming events at IIEC include Technocrats V-2, scheduled for August 31, 2024."
+      ]
+    },
+    {
+      "tag": "benefit",
+      "patterns": [
+        "What are the benefits of joining IIEC?",
+        "Why should I join IIEC?",
+        "What can I gain from joining IIEC?",
+        "Benefits of being a member of IIEC",
+        "Why join IIEC?"
+      ],
+      "responses": [
+        "Joining IIEC provides training and workshops for new members, lab and mentorship facilities. If you are not skilled enough, IIEC will help you develop the necessary skills.",
+        "As a member of IIEC, you can benefit from training and workshops, access to lab and mentorship facilities. IIEC supports skill development for those who need it.",
+        "IIEC offers training and workshops, lab and mentorship facilities to its members. If you lack certain skills, IIEC will assist you in acquiring them.",
+        "Membership in IIEC includes training, workshops, lab facilities, and mentorship. IIEC helps members improve their skills.",
+        "By joining IIEC, you gain access to training, workshops, lab facilities, and mentorship. IIEC is dedicated to helping you develop your skills."
+      ]
+    },
+
+    {
+      "tag": "mission_and_vision",
+      "patterns": [
+        "What is the main mission and vision of this innovation club?",
+        "What is the mission of IIEC?",
+        "Can you tell me the mission and vision of IIEC?",
+        "What are the goals of IIEC?",
+        "What does IIEC aim to achieve?",
+        "What is the purpose of IIEC?",
+        "What is the vision of IIEC?",
+        "What is the mission of IIEC?"
+      ],
+      "responses": [
+        "The IIEC-IUBAT Innovation and Entrepreneurship Center will mentor the students in developing novel and innovative concepts, putting them into practice, and creating workable business models. In addition, IIEC will help students seek local patents for innovative ideas that satisfy SDG requirements.",
+        "The IIEC-IUBAT Innovation and Entrepreneurship Center mentors students in developing novel and innovative concepts, putting them into practice, and creating workable business models. It also helps students seek local patents for innovative ideas that satisfy SDG requirements.",
+        "The mission of IIEC is to mentor students in developing innovative concepts, implementing them, and creating viable business models. The center also assists students in seeking local patents for ideas that meet SDG requirements.",
+        "IIEC aims to mentor students in creating novel and innovative concepts, putting these concepts into practice, and developing them into workable business models. Additionally, IIEC supports students in seeking local patents for ideas that align with SDG requirements.",
+        "The purpose of IIEC is to guide students in developing and implementing innovative concepts and to help them create practical business models. IIEC also aids students in obtaining local patents for ideas that fulfill SDG requirements.",
+        "IIEC's goals include mentoring students in innovative concept development, practical implementation, and business model creation. Furthermore, IIEC assists in seeking local patents for SDG-compliant ideas."
+      ]
+    },
+    {
+      "tag": "club_structure",
+      "patterns": [
+        "How is the club structured and what are the different roles and responsibilities?",
+        "How is IIEC organized?",
+        "What is the structure of the IIEC club?",
+        "Who are the key roles in IIEC?",
+        "How is the IIEC club managed?",
+        "What are the responsibilities of the IIEC members?"
+      ],
+      "responses": [
+        "The club is structured with a presidential body and is maintained by the Chairman, Research Officer, and Assistant Research Officer.",
+        "IIEC is organized with a presidential body and managed by the Chairman, Research Officer, and Assistant Research Officer.",
+        "The structure of IIEC includes a presidential body, with the club being maintained by the Chairman, Research Officer, and Assistant Research Officer.",
+        "Key roles in IIEC include the Chairman, Research Officer, and Assistant Research Officer.",
+        "IIEC is managed by a presidential body, which includes the Chairman, Research Officer, and Assistant Research Officer.",
+        "Members of IIEC have responsibilities under the guidance of the Chairman, Research Officer, and Assistant Research Officer."
+      ]
+    },
+    {
+      "tag": "meeting_schedule",
+      "patterns": [
+        "How often does the club meet and what is the usual agenda for these meetings?",
+        "When does IIEC hold meetings?",
+        "What is the meeting schedule of IIEC?",
+        "How frequently does IIEC meet?",
+        "What are the usual activities during IIEC meetings?",
+        "What happens during IIEC meetings?"
+      ],
+      "responses": [
+        "The club meets bi-monthly. Meetings typically include updates on ongoing projects, brainstorming sessions for new ideas, planning for upcoming events, and open discussion time for member input.",
+        "IIEC holds meetings bi-monthly. The meetings usually cover updates on ongoing projects, brainstorming sessions for new ideas, planning for upcoming events, and open discussion time for member input.",
+        "The meeting schedule of IIEC is bi-monthly. Typical agendas include project updates, brainstorming sessions, event planning, and member input discussions.",
+        "IIEC meets bi-monthly, with meetings focusing on project updates, new idea brainstorming, event planning, and open discussions.",
+        "Usual activities during IIEC meetings include updates on ongoing projects, brainstorming new ideas, planning for events, and discussing members' inputs.",
+        "During IIEC meetings, updates on projects, brainstorming sessions, event planning, and open discussions are common activities."
+      ]
+    },
+    {
+      "tag": "rules_and_guidelines",
+      "patterns": [
+        "Are there any specific rules or guidelines that members need to follow?",
+        "What are the rules for IIEC members?",
+        "Does IIEC have any guidelines for its members?",
+        "What code of conduct must IIEC members follow?",
+        "What are the membership guidelines for IIEC?",
+        "What rules should IIEC members adhere to?"
+      ],
+      "responses": [
+        "Yes, members are expected to adhere to our code of conduct, which includes maintaining DBC, respecting others' ideas, contributing actively to projects, and maintaining a collaborative and inclusive environment.",
+        "IIEC members are required to follow a code of conduct that includes maintaining DBC, respecting others' ideas, actively contributing to projects, and fostering a collaborative and inclusive environment.",
+        "Guidelines for IIEC members include adhering to a code of conduct that involves maintaining DBC, respecting ideas, contributing to projects, and maintaining a collaborative atmosphere.",
+        "The code of conduct for IIEC members includes maintaining DBC, respecting others' ideas, actively participating in projects, and ensuring a collaborative and inclusive environment.",
+        "IIEC's membership guidelines involve following a code of conduct that includes maintaining DBC, respecting ideas, contributing to projects, and fostering collaboration and inclusivity.",
+        "Rules for IIEC members include maintaining DBC, respecting others' ideas, actively contributing to projects, and ensuring a collaborative and inclusive atmosphere."
+      ]
+    },
+    {
+      "tag": "recent_projects",
+      "patterns": [
+        "What are some of the recent projects or initiatives that the club has undertaken?",
+        "Can you tell me about IIEC's recent projects?",
+        "What initiatives has IIEC recently completed?",
+        "What are the latest projects of IIEC?",
+        "What recent activities has IIEC been involved in?",
+        "What projects has IIEC worked on lately?"
+      ],
+      "responses": [
+        "Recent projects include developing a mobile app for local medicine supply, organizing a sustainability hackathon, and creating a mentorship program for students of IUBAT.",
+        "IIEC's recent projects include developing a mobile app for local medicine supply, organizing a sustainability hackathon, and creating a mentorship program for IUBAT students.",
+        "Initiatives recently completed by IIEC include a mobile app for local medicine supply, a sustainability hackathon, and a mentorship program for IUBAT students.",
+        "The latest projects of IIEC involve developing a mobile app for local medicine supply, organizing a sustainability hackathon, and creating a mentorship program for students.",
+        "Recent activities of IIEC include developing a mobile app for local medicine supply, a sustainability hackathon, and a mentorship program for IUBAT students.",
+        "Projects recently undertaken by IIEC include a mobile app for local medicine supply, a sustainability hackathon, and a mentorship program for students of IUBAT."
+      ]
+    },
+    {
+      "tag": "participation_and_contribution",
+      "patterns": [
+        "How can I actively participate and contribute to the club's activities?",
+        "I don't know skilled enough.Then how IIEC help me to do project?",
+        "Are there any ongoing projects that I can join or assist with?",
+        "Is there a process for proposing new ideas or projects to the club?",
+        "How are teams formed for different projects and what are the criteria for team selection?",
+        "Can you provide examples of successful projects and what made them successful?"
+      ],
+      "responses": [
+        "You will be assigned to a project group according to your interest. You can learn, share ideas, and work with your group.",
+        "If you are not skilled enough, IIEC will help by assigning you to a project group according to your interest. You can learn, share ideas, and work with your group.",
+        "Yes, we have several ongoing projects that you can join or assist with.",
+        "Yes, members can propose new ideas during our bi-monthly meetings or submit a project proposal form, which will be reviewed by the committee for feasibility and alignment with our mission.",
+        "Teams are formed based on members' skills, interests, and availability. We aim to create balanced teams with diverse expertise to ensure project success.",
+        "One example is the 'Green Energy Solutions' project, which was successful due to clear goals, strong team collaboration, regular progress tracking, and effective use of resources. It received recognition at a regional innovation fair."
+      ]
+    },
+    {
+      "tag": "resources_and_support",
+      "patterns": [
+        "What resources are available to members for project development (e.g., funding, materials, workspace)?",
+        "Are there any training or workshops offered to help members develop their skills?",
+        "How does the club support members in networking with industry professionals and experts?",
+        "Are there opportunities for mentorship within the club?",
+        "Is there a platform for members to share knowledge and collaborate online?"
+      ],
+      "responses": [
+        "Members have access to funding through club grants, a well-equipped innovation lab, mentorship from expert faculty members, and collaboration tools like project management software.",
+        "Yes, we regularly organize workshops on topics such as design thinking, coding, and project management to help members enhance their skills.",
+        "We host guest speaker sessions, networking events, and industry visits. Members also have access to our extensive network of alumni and industry partners.",
+        "Yes, we have a mentorship program where experienced members or alumni provide guidance and support to newer members on their projects and career development.",
+        "We use an online platform where members can share resources, collaborate on projects, and communicate effectively. This platform includes forums, document sharing, and project management tools."
+      ]
+    },
+    {
+      "tag": "events_and_competitions",
+      "patterns": [
+        "What kind of events does the club organize or participate in?",
+        "Are there regular hackathons, innovation challenges, or competitions that members can join?",
+        "How does the club help members prepare for these events?",
+        "What are the benefits of participating in these events?",
+        "Can members propose and organize their own events under the club's banner?"
+      ],
+      "responses": [
+        "We organize hackathons, innovation challenges, guest lectures, workshops, and social events. We also participate in regional and national competitions to showcase our projects.",
+        "Yes, we host quarterly hackathons and participate in various innovation challenges throughout the year. Members are encouraged to join and contribute their ideas.",
+        "We provide training sessions, resources, and mentorship to help members prepare. We also organize mock competitions and brainstorming sessions to refine ideas.",
+        "Participating in these events helps members gain practical experience, build their portfolio, network with professionals, and potentially win prizes and recognition.",
+        "Yes, members are encouraged to propose and organize events. They can submit their event ideas to the committee, and if approved, they will receive support in planning and execution."
+      ]
+    },
+    {
+      "tag": "feedback_and_improvement",
+      "patterns": [
+        "How is feedback collected from members about the club’s activities and projects?",
+        "Are there opportunities for members to suggest improvements or new initiatives for the club?",
+        "How does the club ensure continuous improvement and stay updated with the latest trends in innovation?",
+        "Is there a regular review process for the club’s projects and activities?",
+        "How can I provide feedback or raise concerns if I have any?"
+      ],
+      "responses": [
+        "We collect feedback through regular surveys, and open discussions during meetings. Members can also provide feedback directly to committee members.",
+        "Absolutely. Members are encouraged to suggest improvements and new initiatives during meetings or through our online suggestion form.",
+        "We regularly review our activities and projects, seek feedback from members, and stay connected with industry trends through research and networking with professionals.",
+        "Yes, we conduct quarterly reviews of all projects and activities to assess progress, identify challenges, and implement improvements.",
+        "You can provide feedback or raise concerns during meetings, through our online feedback form, or by speaking directly with a committee member. We are committed to addressing all concerns promptly."
+      ]
+    },
+    {
+      "tag": "community_and_culture",
+      "patterns": [
+        "How does the club foster a culture of creativity and innovation among its members?",
+        "Are there social events or informal gatherings for members to connect and network?",
+        "How does the club handle conflicts or disagreements among members?",
+        "Are there opportunities to collaborate with other clubs or organizations?",
+        "How does the club ensure an inclusive and welcoming environment for all members?"
+      ],
+      "responses": [
+        "We encourage open-mindedness, experimentation, and collaboration. Regular brainstorming sessions, workshops, and team-building activities help foster a creative and innovative culture.",
+        "Yes, we organize social events, informal meetups, and networking sessions to help members connect and build relationships outside of formal meetings.",
+        "We promote open communication and mediation to resolve conflicts. Members are encouraged to discuss issues respectfully and seek help from the committee if needed.",
+        "Yes, we frequently collaborate with other clubs, local organizations, and industry partners on joint projects, events, and initiatives.",
+        "We have a strong commitment to diversity and inclusion. Our code of conduct promotes respect and equality, and we strive to create a welcoming environment for members of all backgrounds."
+      ]
+    },
+    {
+      "tag": "equipment_and_tools",
+      "patterns": [
+        "Which types of equipment are found in IIEC lab?",
+        "How do I collect any equipment?"
+      ],
+      "responses": [
+        "All the necessary hardware components are found in IIEC lab.",
+        "Contact the assistant research officer and maintain the formal procedure."
+      ]
+    },
+    {
+      "tag": "joining_iiec",
+      "patterns": [
+        "Who can join IIEC?",
+        "How do I join IIEC?",
+        "What are the eligibility criteria for joining IIEC?",
+        "Is there a membership fee?",
+        "What is the interview process like?",
+        "How long does the application process take?",
+        "What happens after I am accepted as a member?",
+        "Can I participate in projects immediately after joining?",
+        "Who can I contact if I have more questions about joining?"
+      ],
+      "responses": [
+        "Any students of IUBAT can join IIEC as a general member.",
+        "To join IIEC, you need to complete the membership application form available on the IIEC website or at the club office. Once you submit the form, you will be invited for an interview with the club officers.",
+        "All IUBAT students are eligible to join IIEC. We look for individuals who are enthusiastic about innovation, entrepreneurship, and collaboration.",
+        "There is a nominal membership fee to cover administrative costs and provide access to the club's resources. The exact fee amount will be communicated during the application process.",
+        "The interview process is an opportunity for us to learn more about your interests, skills, and motivations for joining IIEC. It typically involves a short interview with a panel of current members and club officers.",
+        "The application process usually takes about 1-2 weeks from the time you submit your application to the final decision. We aim to make the process as efficient as possible.",
+        "After acceptance, you will be invited to an orientation session where you will learn more about the club's activities, resources, and how you can get involved in ongoing and upcoming projects.",
+        "Yes, new members are encouraged to start participating in projects immediately. You can join ongoing projects or propose new ones based on your interests and skills.",
+        "If you have more questions, you can contact the IIEC club office directly or reach out to any of the current club officers. Their contact information is available on the IIEC website."
+      ]
+    },
+    {
+      "tag": "club_maintenance",
+      "patterns": [
+        "How does IIEC maintain its activities?",
+        "What methods does IIEC use to sustain its operations?",
+        "How does IIEC ensure continuous engagement?",
+        "What are the maintenance strategies employed by IIEC?",
+        "Can you explain how IIEC manages its resources?"
+      ],
+      "responses": [
+        "IIEC maintains its activities through active engagement, collaboration among members, mentorship programs, strategic resource allocation, structured management practices, regular training sessions, continuous participation in innovative projects, forming partnerships, and utilizing various resources, tools, software, and materials."
+      ]
+    },
+    {
+      "tag": "student_benefits",
+      "patterns": [
+        "What are the benefits for students joining IIEC?",
+        "How does joining IIEC benefit students?",
+        "What support areas does IIEC provide for student development?",
+        "In what ways does IIEC help students grow?"
+      ],
+      "responses": [
+        "Joining IIEC benefits students by fostering innovation, developing technical and entrepreneurial skills, enhancing research capabilities, improving communication and collaboration, promoting networking opportunities, ensuring continuous learning, and providing practical experience."
+      ]
+    },
+    {
+      "tag": "funding_reasons",
+      "patterns": [
+        "Why does IIEC receive funding?",
+        "What are the reasons for IIEC receiving funding?",
+        "How does funding benefit IIEC?"
+      ],
+      "responses": [
+        "IIEC receives funding to drive innovation, enhance university reputation, develop student skills, support research and entrepreneurship, attract talent, strengthen the community, prepare graduates for the job market and entrepreneurial ventures, and improve academic quality."
+      ]
+    },
+    {
+      "tag": "main_goal",
+      "patterns": [
+        "What is the main goal of IIEC?",
+        "What objective does IIEC aim to achieve?",
+        "Can you explain IIEC's primary goal?"
+      ],
+      "responses": [
+        "The main goal of IIEC is to collaborate with teachers and students to transform creative concepts into practical initiatives. This is achieved by enhancing technical abilities, participating in research, and acquiring hands-on business exposure."
+      ]
+    },
+    {
+      "tag": "achievements",
+      "patterns": [
+        "What achievements has IIEC attained?",
+        "Can you list some of IIEC's achievements?",
+        "What awards has IIEC won?",
+        "How has IIEC impacted its community?"
+      ],
+      "responses": [
+        "IIEC has achieved several awards including the YCI Leadership Award 2023, Smart City and Expo 2019, and International Skill Innovation Fest 2024. It has completed a total of 11 projects, with 4 of them supported by IUBAT, leading to substantial improvements in academic quality and student skill development."
+      ]
+    },
+    {
+      "tag": "resources_support",
+      "patterns": [
+        "What resources does IIEC provide?",
+        "What kind of support does IIEC offer?",
+        "How does IIEC support its members?"
+      ],
+      "responses": [
+        "IIEC provides lab equipment such as robotic electronics, high-end computers, research instruments, 3D printers, and mechanical and electrical apparatus. Guidance is offered by two research officers and skilled lecturers, with specific support provided in research topics and projects."
+      ]
+    },
+    {
+      "tag": "importance_research_innovation",
+      "patterns": [
+        "Why is research and innovation important?",
+        "What are the key aspects of research and innovation?",
+        "How does research and innovation contribute to societal development?",
+        "Can you explain the importance of research and innovation?"
+      ],
+      "responses": [
+        "Research and innovation are crucial for advancing knowledge, solving societal problems, driving economic growth, enhancing life quality, achieving educational excellence, gaining competitive advantage, and promoting sustainable development."
+      ]
+    },
+    {
+      "tag": "expectations_culture",
+      "patterns": [
+        "What is the culture like at IIEC?",
+        "What are the cultural expectations at IIEC?",
+        "How does IIEC foster a productive environment?"
+      ],
+      "responses": [
+        "At IIEC, the culture emphasizes teamwork, creativity, high standards for ongoing development, professionalism, initiative, receptiveness to new ideas, willingness to push boundaries and innovate, ongoing education and mentoring, and fostering a productive and innovative environment."
+      ]
+    },
+    {
+      "tag": "future_plans_vision",
+      "patterns": [
+        "What are IIEC's future plans?",
+        "What is IIEC's vision for growth?",
+        "How does IIEC plan to expand?"
+      ],
+      "responses": [
+        "IIEC's future plans include greater cooperation, increased outreach, constant adaptation to new trends and technology, attracting a diverse group of people, increasing influence within and beyond the university, and maintaining prominence in innovation and entrepreneurship."
+      ]
+    }
+  ]
+}

@@ -8,12 +8,15 @@ from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open("./src/intents.json").read())
+
+intents = json.loads(open("./src/greetings.json").read())
+iiec_info_intents = json.loads(open("./src/iiec_info.json").read())
+intents["intents"].extend(iiec_info_intents["intents"])
 
 words = pickle.load(open("./src/words.pkl", "rb"))
 classes = pickle.load(open("./src/classes.pkl", "rb"))
 
-model = load_model("./src/model.h5")
+model = load_model("./src/model_no_executive.keras")
 
 
 def cleanup_sentence(sentence):
@@ -54,6 +57,7 @@ def get_response(intents_list, intents_json):
 
 print("GBot is running...")
 while True:
+  print("\n\n\n", classes)
   message = input("You: ")
   ints = predict_class(message)
   # print(ints)

@@ -34,12 +34,14 @@ def speak(text):
     
 # USING THE SAVED MODEL:
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open("./src/intents.json").read())
+intents = json.loads(open("./src/greetings.json").read())
+iiec_info_intents = json.loads(open("./src/iiec_info.json").read())
+intents["intents"].extend(iiec_info_intents["intents"])
 
 words = pickle.load(open("./src/words.pkl", "rb"))
 classes = pickle.load(open("./src/classes.pkl", "rb"))
 
-model = load_model("./src/model.h5")
+model = load_model("./src/model_no_executive.keras")
 
 
 def cleanup_sentence(sentence):
